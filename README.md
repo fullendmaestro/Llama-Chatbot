@@ -297,9 +297,15 @@ pinecone_region = userdata.get('PINECONE_ENV')
   - Displays input and interaction history for debugging.
   - Calls `answer_question` to generate the response.
 
+# Submission files
+
 ## Secret variables for submision
 
 `HUGGINGFACEHUB_API_TOKEN=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`
 `OPENAI_API_KEY=sk-2Wte_TRhsDi-pt1ZS8G8TCzNGfrp-ycgVCY4Xu3_0iT3BlbkFJO9y7jtYuJIo-yL2rt8bE06D4kOiMzQIl1g3r4WQuwA`
 `PINECONE_API_KEY=b6fa6a70-9ea4-40fc-b393-d53318b566fc`
 `PINECONE_ENV=us-east-1`
+
+## Google colab link
+
+https://colab.research.google.com/drive/1ZfX_VMZ4t8fpRZ-3XXW71tMKwIN9nnJa?usp=sharing
