@@ -1,4 +1,9 @@
-# Llama-2 Enhanced Chatbot with Sentiment Analysis
+# Llama-2 Enhanced Chatbot with Sentiment Analysis                          
+  
+  
+  
+
+![Chat Interface](./chat_interface.png)
 
 This project implements an interactive chatbot using the **Llama-2 model** for text generation, enhanced with **sentiment analysis** for improved user interaction. The chatbot can handle various types of user queries, perform semantic searches in different datasets, and adjust its responses based on the emotional tone of the user’s input.
 
